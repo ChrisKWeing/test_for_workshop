@@ -5,3 +5,5 @@ This is a new text file (or is it?).
 This was created in a "new_text_file" branch and will be merged into main after testing. 
 
 Ready for takeoff!
+
+Damn I fucked up so bad, here is another edit on my text file lol RIP t.t
